@@ -1,0 +1,7 @@
+This is a C#/.NET demonstration of a simple socket client, using winsock.
+
+You can enter any ip, port and message. Press send to send it into your
+socket.
+
+https://sites.google.com/site/erickveilprogramming/developer-of-the-month/cnethowtomakeaguisocketclientpart1
+
